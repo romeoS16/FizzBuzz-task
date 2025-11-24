@@ -15,6 +15,8 @@ public class FizzBuzz {
      *
      * Hinweis: Der Rückgabe-Array hat die Länge n.
      * Index 0 entspricht der Zahl 1, Index 1 der Zahl 2 usw.
+     * Optional: Für negative Werte kann eine IllegalArgumentException geworfen werden
+     * oder einfach ein leeres String-Array zurückgeben werden
      */
 
     public static String[] fizzBuzz(int n) {
