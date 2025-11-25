@@ -35,9 +35,7 @@ Schreiben Sie Tests in der [FizzBuzzTest](src/test/java/FizzBuzzTest.java) Klass
 Grundsätzlich arbeiten Sie wie in Gruppe B:
 
 (1) Red – Test schreiben
-- Schreiben Sie zuerst eigene Testfälle in FizzBuzzTest (ohne KI), z.B.:
- -  fizzBuzz(1) → ["1"]
-   - fizzBuzz(3) → ["1", "2", "Fizz"]
+- Schreiben Sie zuerst eigene Testfälle in FizzBuzzTest.
 
 (2) Green – minimaler Code
 - Implementieren Sie FizzBuzz.fizzBuzz(int n) so, dass Ihre Tests grün werden.
