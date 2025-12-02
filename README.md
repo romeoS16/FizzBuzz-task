@@ -1,4 +1,4 @@
-# Aufgabe E3 – FizzBuzz (Gruppe C – TDD + KI)
+# Aufgabe – FizzBuzz (Gruppe C – TDD + KI)
 
 In dieser Aufgabe üben Sie **Test-Driven Development (TDD)** und dürfen zusätzlich eine KI
 (z.B. ChatGPT) unter klar definierten Bedingungen verwenden.  
@@ -51,19 +51,23 @@ Grundsätzlich arbeiten Sie wie in Gruppe B:
 
 Sie dürfen eine KI (z.B. ChatGPT) zur Unterstützung einsetzen – aber nur nach bestimmten Regeln:
 
-(1) Wofür Sie KI verwenden dürfen
-- Vorschläge für weitere Testfälle (z.B. Kombinationen von 3 und 5)
-- Ideen für eine saubere Implementierung der Schleife und Bedingungen
-- Refactoring-Vorschläge (z.B. Vereinfachung von Bedingungen)
+(1) Zuerst eigene Tests, dann KI
+- Die Tests werden in jedem Fall zuerst von den Studierenden **selbst** geschrieben
+- Erst danach ist KI erlaubt:
 
-(2) KI-Log führen (ki-log.md)
+(2) Wofür Sie KI verwenden dürfen
+- Ideen für eine saubere Implementierung (z.B. Vorverarbeitung des Strings, Schleifenlogik)
+- Refactoring-Vorschläge (z.B. Hilfsmethoden, bessere Namen)
+- Vorschläge für weitere Testfälle (z.B. Sonderfälle, Leerzeichen-Varianten)
+
+(3) KI-Log führen [ki-log.md](./ki-log.md)  
 - Jede KI-Nutzung dokumentieren:
   - Datum/Uhrzeit
   - verwendeter Prompt
   - kurz: Was wurde übernommen? (z.B. „Testfall für n = 15“, „Alternative if-Struktur“)  
-  - Beispiel siehe [ki-log.md](./ki-log.md)
+  - Beispiel siehe [ki-log.md](./ki-log.md)  
 
-(3) Wichtig:
+(4) Wichtig:
 - Sie sind verantwortlich, die KI-Vorschläge kritisch zu prüfen und ggf. anzupassen.
 - Das spätere Quiz zur Einheit wird ohne KI bearbeitet.  
 
