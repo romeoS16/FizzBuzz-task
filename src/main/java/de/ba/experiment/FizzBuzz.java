@@ -20,7 +20,7 @@ public class FizzBuzz {
      */
 
     public static String[] fizzBuzz(int n) {
-        if(n <= 1) {
+        if(n <= 0) {
             throw new IllegalArgumentException("n must be greater than 0");
         }
 
